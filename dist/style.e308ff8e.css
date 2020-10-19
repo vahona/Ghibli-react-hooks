@@ -1,0 +1,64 @@
+html {
+    background-color: rgba(212, 198, 214, 0.4);
+    color: rgba(19, 1, 11, 0.753);
+}
+
+.more_info_movie {
+    margin-inline-start: 2rem;
+    margin-inline-end: 2rem;
+    margin-block-end: 5rem;
+
+}
+
+.movie-detail {
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(7, 114, 114);
+  font-size: 20px;
+}
+
+p {
+    font-size: 20px; 
+}
+
+.information {
+    margin: 2rem;
+}
+
+
+
+ul {
+    list-style: none;
+    display: flex;
+    padding-inline-start: 0;
+    padding-block-end: 1rem;
+    color: yellow
+}
+
+li {
+    margin-right: 3rem;
+}
+
+.release_score {
+    display: flex;
+    justify-content: space-between;
+}
+
+.movie_data_release, .movie_tr_score {
+    padding-block-start: 2rem;
+}
+
+.movie_data_release {
+  margin-right: auto;
+  margin-inline-start: 2rem;
+}
+
+h1, p {
+    margin-inline-start: 2rem;
+}
+
+.description {
+      margin-inline-start: 0;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
